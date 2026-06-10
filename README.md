@@ -7,9 +7,9 @@ Este projeto foi desenvolvido para a entrega da Global Solution da disciplina de
 
 ## 👥 Integrantes do Grupo
 * **Caio M. Lins** - RM: 559805
-* **Guilherme Augusto** - RM: 
-* **Murilo Bez Chleba** - RM: 
-* **Bernardo Lozório** - RM: 
+* **Guilherme Augusto** - RM: 562107
+* **Murilo Bez Chleba** - RM: 566199
+* **Bernardo Lozório** - RM: 564943
 
 ## 🎥 Vídeo de Apresentação da Solução
 * **Link do Vídeo no YouTube/Drive:** [COLE O LINK DO VÍDEO AQUI]
