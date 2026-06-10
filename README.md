@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para a entrega da Global Solution da disciplina de
 * **Bernardo Lozório** - RM: 564943
 
 ## 🎥 Vídeo de Apresentação da Solução
-* **Link do Vídeo no YouTube/Drive:** https://youtu.be/2ck0NIl-p1s?si=Gyy9a2cKo_Cb02g0
+* **Link do Vídeo no YouTube:** https://youtu.be/2ck0NIl-p1s?si=Gyy9a2cKo_Cb02g0
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 * **Python 3.x** (Utilizando apenas recursos nativos para garantir o foco no desenvolvimento dos algoritmos puros).
