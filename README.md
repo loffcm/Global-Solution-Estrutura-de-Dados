@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para a entrega da Global Solution da disciplina de
 * **Bernardo Lozório** - RM: 564943
 
 ## 🎥 Vídeo de Apresentação da Solução
-* **Link do Vídeo no YouTube/Drive:** [COLE O LINK DO VÍDEO AQUI]
+* **Link do Vídeo no YouTube/Drive:** https://youtu.be/2ck0NIl-p1s?si=Gyy9a2cKo_Cb02g0
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 * **Python 3.x** (Utilizando apenas recursos nativos para garantir o foco no desenvolvimento dos algoritmos puros).
@@ -31,3 +31,10 @@ Este projeto foi desenvolvido para a entrega da Global Solution da disciplina de
 3. O algoritmo **Merge Sort** entra em ação e reorganiza toda a lista colocando os focos com maior temperatura no topo.
 4. O sistema gera e salva um arquivo físico chamado `historico_incendios.json` com os dados processados.
 5. A **Busca Binária** é utilizada para pesquisar rapidamente um foco específico digitando apenas o número do seu ID.
+
+## 🚀 Instruções de Execução
+1. Certifique-se de ter o Python 3 instalado no computador.
+2. Baixe os arquivos `estruturas.py`, `algoritmos.py` e `main.py` e coloque-os no mesmo diretório.
+3. Abra o terminal ou prompt de comando na pasta dos arquivos e execute:
+   ```bash
+   python main.py
